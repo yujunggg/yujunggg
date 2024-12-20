@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-김민규교를 믿습니다.
+<a to="https://github.com/daedyu">김민규</a>교를 믿습니다.
 
 <a href="https://github.com/devxb/gitanimals">
 <img
