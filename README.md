@@ -1,6 +1,4 @@
-## Hi there 👋
-김
-
+## 안녕하세요
 <a href="https://github.com/devxb/gitanimals">
 <img
   src="https://render.gitanimals.org/farms/yujunggg"
@@ -8,10 +6,9 @@
   height="300"
 />
 </a>
-민
+
 ![이유정의 GitHub stats](https://github-readme-stats.vercel.app/api?username=yujunggg&show_icons=true&theme=merko)
-규
-교
+
 <!--
 **yujunggg/yujunggg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
