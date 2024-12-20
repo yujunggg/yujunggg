@@ -1,6 +1,5 @@
 ## Hi there 👋
-
-<a to="https://github.com/daedyu">김민규</a>교를 믿습니다.
+김
 
 <a href="https://github.com/devxb/gitanimals">
 <img
@@ -9,14 +8,14 @@
   height="300"
 />
 </a>
-
+민
 ![이유정의 GitHub stats](https://github-readme-stats.vercel.app/api?username=yujunggg&show_icons=true&theme=merko)
-
+규
+교
 <!--
 **yujunggg/yujunggg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
