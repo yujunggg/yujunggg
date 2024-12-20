@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+김민규교를 믿습니다.
+
 <!--
 **yujunggg/yujunggg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
