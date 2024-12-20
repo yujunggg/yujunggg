@@ -2,6 +2,14 @@
 
 김민규교를 믿습니다.
 
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/yujunggg"
+  width="600"
+  height="300"
+/>
+</a>
+
 <!--
 **yujunggg/yujunggg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
