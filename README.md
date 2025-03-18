@@ -7,7 +7,7 @@
   height="300"
 />
 </a>
-![이유정의 GitHub stats](https://github-readme-stats.vercel.app/api?username=yujunggg&show_icons=true&theme=merko)
+
 
 <!--
 **yujunggg/yujunggg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
