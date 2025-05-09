@@ -5,28 +5,16 @@
     width="600"
     height="120"
   />
-</a>
-
-
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=yujunggg&utm_content=line">
   <img
     src="https://render.gitanimals.org/lines/yujunggg?pet-id=657765000690654099"
     width="600"
     height="120"
   />
-</a>
-
-
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=yujunggg&utm_content=line">
   <img
     src="https://render.gitanimals.org/lines/yujunggg?pet-id=657850738987884696"
     width="600"
     height="120"
   />
-</a>
-
-
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=yujunggg&utm_content=line">
   <img
     src="https://render.gitanimals.org/lines/yujunggg?pet-id=639988369414427974"
     width="600"
