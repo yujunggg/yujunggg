@@ -20,10 +20,10 @@
 </div>
 
 
-<div align= "center">
-    <div style="text-align: left;">
+<div style="text-align: left;">
         <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 👑 stats </h2> <br> 
-    </div>
+</div>
+<div align= "center">
     <img src="https://github.com/yujunggg/github-stats-transparent/blob/output/generated/overview.svg" alt="Overview">
     <img src="https://github.com/yujunggg/github-stats-transparent/blob/output/generated/languages.svg" alt="Languages">
 </div>
