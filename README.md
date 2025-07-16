@@ -12,11 +12,6 @@
   />
 </a>
   ">
-      <img
-        src="https://render.gitanimals.org/lines/yujunggg"
-        width="600"
-        height="120"
-      />
     </a>
 </div>
 
