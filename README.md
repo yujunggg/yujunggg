@@ -3,13 +3,12 @@
 </div>
 
 <div align = "center">
-    <a href="
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=yujunggg&utm_content=line">
-  <img
-    src="https://render.gitanimals.org/lines/yujunggg"
-    width="600"
-    height="120"
-  />
+    <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=yujunggg&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/yujunggg"
+  width="600"
+  height="300"
+/>
 </a>
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📞 Contact me </h2> <br> 
     <div align= "center"> <a href=https://www.instagram.com/y.xunj_z> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/y.xunj_z"> </a>
