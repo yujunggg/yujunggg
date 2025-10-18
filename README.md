@@ -1,7 +1,7 @@
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFE3E3,100:4f4dff&height=180&text=Yujung's%20GitH ub&animation=blink&fontColor=ffffff&fontSize=60"/>
 </div>
- 
+
 <div align = "center"> 
   
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=yujunggg&utm_content=line">
