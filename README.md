@@ -3,22 +3,22 @@
 </div>
 
 <div align = "center"> 
-<div>
-    <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=yujunggg&utm_content=line">
-      <img
-        src="https://render.gitanimals.org/lines/yujunggg"
-        width="600"      
-        height="120"
-      />
-    </a>
-    
-    <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=yujunggg&utm_content=line">
-      <img
-        src="https://render.gitanimals.org/lines/yujunggg?pet-id=768410855121696392"
-        width="600"
-        height="120"
-      />
-    </a>
+<div style="display: flex; gap: 10px; align-items: center;">
+  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=yujunggg&utm_content=line">
+    <img
+      src="https://render.gitanimals.org/lines/yujunggg"
+      width="600"
+      height="120"
+    />
+  </a>
+
+  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=yujunggg&utm_content=line">
+    <img
+      src="https://render.gitanimals.org/lines/yujunggg?pet-id=768410855121696392"
+      width="600"
+      height="120"
+    />
+  </a>
 </div>
   
 
